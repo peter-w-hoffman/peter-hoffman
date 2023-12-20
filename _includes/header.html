@@ -19,7 +19,7 @@
         <ul class="page-link">
           <li><a href="{{ "/" | prepend: site.baseurl }}">Home</a></li>
           {% assign sorted_pages = site.pages | sort:"order" %}
-          {% for page in sited_pages %}
+          {% for page in sorted_pages %}
             {% if page.title != 'Home' %}
               <li><a href="{{ page.url | prepend: site.baseurl }}">{{page.title}}</a></li>
             {% endif %}
