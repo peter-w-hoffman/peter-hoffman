@@ -7,12 +7,12 @@ order: 1
 - Expander Graphs and their Construction, May 2022, P. Hoffman. 
   - [[PDF]]({{site.baseurl}}/assets/Expander_Graphs_and_their_Construction.pdf){:target="_blank"}: Proved the existence of expander graphs using randomized constructions and proved the unique neighbor expansion
 
-\vspace{5mm}
+\ 
 
 - Integer Programming Solutions to Graph Coloring, May 2022, P. Hoffman, supervised by Professor James Orlin.
   - [[PDF]]({{site.baseurl}}/assets/IP_approach_to_coloring_non_planar_graphs.pdf){:target="_blank"}: Designed an integer program to find proper colorings of randomly constructed non-planar graphs
 
-\vspace{5mm}
+\ 
 
 - Polygon Dynamics Under Reflection Operations, December 2022, P. Hoffman with O. Lores & C. Yung.
   - [[PDF]]({{site.baseurl}}/assets/Final__Polygon_Dynamics-2.pdf){:target="_blank"}: Studied the dynamics of a polygon as its vertices are iteratively reflected across the perpendicular bisector of their neighbors
