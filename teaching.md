@@ -17,7 +17,7 @@ order: 2
 <h4>Teaching in Combinatorics and Probability</h4>
 
 - Instructor for Intermediate Probability 6.S095, December 2021 - Present
- - Student-run for-credit class supervised by Professor Guy Bresler covering topics in probabilistic methods
+  - Student-run for-credit class supervised by Professor Guy Bresler covering topics in probabilistic methods
 
 - Grader for Combinatorial Analysis (18.211), September 2023 - December 2023
   - Graded assignments for advanced undergraduate class in combinatorics taught by Professor Michael Simkin
