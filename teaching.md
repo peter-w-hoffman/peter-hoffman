@@ -11,6 +11,7 @@ order: 2
   - Led weekly recitations for 50 students in a class taught by Professor James Orlin
 
 
+
 - Instructor Optimization in Graph Theory, June 2022 - August 2022. 
   - Self-organized MIT summer course on the application of optimization methods to questions in graph coloring, shortest paths, and largest common independent sets
  
@@ -19,6 +20,7 @@ order: 2
 
 - Instructor for Intermediate Probability 6.S095, December 2021 - Present
   - Student-run for-credit class supervised by Professor Guy Bresler covering topics in probabilistic methods
+
 
 
 - Grader for Combinatorial Analysis (18.211), September 2023 - December 2023
