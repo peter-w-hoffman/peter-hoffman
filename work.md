@@ -4,4 +4,4 @@ title: Industry Experience
 order: 4
 ---
 
-- Industry stuff to say
+- Under construction 
