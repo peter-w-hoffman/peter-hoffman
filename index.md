@@ -3,9 +3,6 @@ layout: page
 title: Home
 ---
 
-![]({{site.baseurl}}/assets/PH-photo.jpeg){:width="20%"}
+![]({{site.baseurl}}/assets/PH-photo.jpeg){:width="200px"}
 
-This is a simple Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/).  Plus, you can find a lot of themes at [jekyllthemes.org](http://jekyllthemes.org/)
-
-You can find the source code for this theme at: [jekyll-simple](https://github.com/wild-flame/jekyll-simple)
-
+I am a final year undergraduate MIT studying mathematics. I am interested in decision-making problems involving optimization, discrete probability, and combinatorics. I currently research in convex optimiztion techniques used to solve the two-player [Blotto game](https://en.wikipedia.org/wiki/Blotto_game) from game theory supervised by [Pablo Parrilo](https://www.mit.edu/~parrilo/).
