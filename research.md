@@ -8,7 +8,7 @@ order: 1
   - [[PDF]]({{site.baseurl}}/assets/Expander_Graphs_and_their_Construction.pdf){:target="_blank"}: Proved the existence of expander graphs using randomized constructions and proved the unique neighbor expansion
  
 
-- Integer Programming Solutions to Graph Coloring, May 2022, P. Hoffman, supervised by Prof. James Orlin.
+- Integer Programming Solutions to Graph Coloring, May 2022, P. Hoffman, supervised by Professor James Orlin.
   - [[PDF]]({{site.baseurl}}/assets/IP_approach_to_coloring_non_planar_graphs.pdf){:target="_blank"}: Designed an integer program to find proper colorings of randomly constructed non-planar graphs
 
 
@@ -18,11 +18,11 @@ order: 1
 
 <h4>Machine Learning</h4>
 - Random Matrix Initialization Methods in Machine Learning, May 2021, P. Hoffman,
-supervised by Prof. Gil Strang. 
+supervised by Professor Gil Strang. 
   - [[PDF]]({{site.baseurl}}/assets/Random_Matrix_Initialization_Methods.pdf){:target="_blank"}: Used randomized initialization methods to improve performance of 2-layer feed forward neural networks
 
 
 <h4>Bayesian sampling</h4>
 - An Overview of the Nested Sampling Algorithm, May 2023, P. Hoffman, supervised by
-Prof. Peter Kempthorne. 
+Professor Peter Kempthorne. 
   -  [[PDF]]({{site.baseurl}}/assets/Nested_Sampling_Algorithm.pdf){:target="_blank"}: Studied the Nested Sampling algorithm and its application to calculating the normalizing factor in Bayesian statistics
