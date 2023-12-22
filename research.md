@@ -17,12 +17,14 @@ order: 1
 - Polygon Dynamics Under Reflection Operations, December 2022, P. Hoffman with O. Lores & C. Yung.
   - [[PDF]]({{site.baseurl}}/assets/Final__Polygon_Dynamics-2.pdf){:target="_blank"}: Studied the dynamics of a polygon as its vertices are iteratively reflected across the perpendicular bisector of their neighbors
 
+ &nbsp;
 
 <h3>Machine Learning</h3>
 - Random Matrix Initialization Methods in Machine Learning, May 2021, P. Hoffman,
 supervised by Professor Gil Strang. 
   - [[PDF]]({{site.baseurl}}/assets/Random_Matrix_Initialization_Methods.pdf){:target="_blank"}: Used randomized initialization methods to improve performance of 2-layer feed forward neural networks
 
+ &nbsp;
 
 <h3>Bayesian sampling</h3>
 - An Overview of the Nested Sampling Algorithm, May 2023, P. Hoffman, supervised by
