@@ -16,7 +16,7 @@ order: 1
 
 - Polygon Dynamics Under Reflection Operations, December 2022, P. Hoffman with O. Lores & C. Yung.
   [[PDF]]({{site.baseurl}}/assets/Final__Polygon_Dynamics-2.pdf){:target="_blank"}
- - Studied the dynamics of a polygon as its vertices are iteratively reflected across the perpendicular bisector of their neighbors
+  - Studied the dynamics of a polygon as its vertices are iteratively reflected across the perpendicular bisector of their neighbors
 
 
 <h3>Machine Learning</h3>
