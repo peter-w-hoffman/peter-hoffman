@@ -7,8 +7,6 @@ order: 1
 <h3>Optimization</h3>
 - Current research uses polyhedral lifts and flow decompositions on layered graphs to effeciently solve variants of the two-person Blotto game from game theory using a polynomial size linear program, supervised by Professor Pablo Parrilo
 
- &nbsp;
-
 - Integer Programming Solutions to Graph Coloring, May 2022, P. Hoffman, supervised by Professor James Orlin.
   - [[PDF]]({{site.baseurl}}/assets/IP_approach_to_coloring_non_planar_graphs.pdf){:target="_blank"}: Designed an integer program to find proper colorings of randomly constructed non-planar graphs
 
@@ -20,8 +18,6 @@ order: 1
 
  &nbsp;
 
-
- &nbsp;
 
 - Polygon Dynamics Under Reflection Operations, December 2022, P. Hoffman with O. Lores & C. Yung.
   - [[PDF]]({{site.baseurl}}/assets/Final__Polygon_Dynamics-2.pdf){:target="_blank"}: Studied the dynamics of a polygon as its vertices are iteratively reflected across the perpendicular bisector of their neighbors
