@@ -11,21 +11,21 @@ order: 3
 
 <h3>Optimization coursework</h3>
 
-- Mathematical Programming (G)
+- Mathematical programming (G)
 
-- Optimization Methods
+- Optimization methods
 
-<h3>Machine Learning coursework</h3>
+<h3>Machine learning coursework</h3>
 
-- Statistical Reinforcement Learning (G)
+- Statistical reinforcement learning (G)
 
-- Matrix Methods in Machine Learning
+- Matrix methods in machine learning
 
-- Mathematical Statistics (G)
+- Mathematical statistics (G)
 
 
 <h3>Combinatorics coursework</h3>
 
 - Combinatorial analysis
 
-- Discrete Applied Mathematics
+- Discrete applied mathematics
