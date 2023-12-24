@@ -3,14 +3,23 @@ layout: page
 title: Research
 order: 1
 ---
+
+<h3>Optimization</h3>
+- Current research uses polyhedral lifts and flow decompositions on layered graphs to effeciently solve variants of the two-person Blotto game from game theory using a polynomial size linear program, supervised by Professor Pablo Parrilo
+
+ &nbsp;
+
+- Integer Programming Solutions to Graph Coloring, May 2022, P. Hoffman, supervised by Professor James Orlin.
+  - [[PDF]]({{site.baseurl}}/assets/IP_approach_to_coloring_non_planar_graphs.pdf){:target="_blank"}: Designed an integer program to find proper colorings of randomly constructed non-planar graphs
+
+
+
 <h3>Combinatorics</h3>
 - Expander Graphs and their Construction, May 2022, P. Hoffman. 
   - [[PDF]]({{site.baseurl}}/assets/Expander_Graphs_and_their_Construction.pdf){:target="_blank"}: Proved the existence of expander graphs using randomized constructions and proved the unique neighbor expansion
 
  &nbsp;
 
-- Integer Programming Solutions to Graph Coloring, May 2022, P. Hoffman, supervised by Professor James Orlin.
-  - [[PDF]]({{site.baseurl}}/assets/IP_approach_to_coloring_non_planar_graphs.pdf){:target="_blank"}: Designed an integer program to find proper colorings of randomly constructed non-planar graphs
 
  &nbsp;
 
