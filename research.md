@@ -26,7 +26,7 @@ supervised by Professor Gil Strang.
 
  &nbsp;
 
-<h3>Bayesian sampling</h3>
+<h3>Bayesian inference</h3>
 - An Overview of the Nested Sampling Algorithm, May 2023, P. Hoffman, supervised by
 Professor Peter Kempthorne. 
   -  [[PDF]]({{site.baseurl}}/assets/Nested_Sampling_Algorithm.pdf){:target="_blank"}: Studied the Nested Sampling algorithm and its application to calculating the normalizing factor in Bayesian statistics
