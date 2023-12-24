@@ -9,6 +9,7 @@ order: 2
 
 - Teaching Assistant for Optimization Methods 15.053, February 2023 - June 2023.
   - Led weekly recitations for 50 students in a class taught by Professor James Orlin
+  - Average rating of 6.9 out of 7.0
 
  &nbsp;
 
@@ -21,6 +22,7 @@ order: 2
 
 - Instructor for Intermediate Probability 6.S095, December 2021 - Present
   - Student-run for-credit class supervised by Professor Guy Bresler covering topics in probabilistic methods
+  - Total annual enrollment of 120 students, recieved average rating of 6.9 out of 7.0
 
  &nbsp;
 
