@@ -11,12 +11,11 @@ order: 1
   - [[PDF]]({{site.baseurl}}/assets/IP_approach_to_coloring_non_planar_graphs.pdf){:target="_blank"}: Designed an integer program to find proper colorings of randomly constructed non-planar graphs
 
 
-
+ &nbsp;
+ 
 <h3>Combinatorics</h3>
 - Expander Graphs and their Construction, May 2022, P. Hoffman. 
   - [[PDF]]({{site.baseurl}}/assets/Expander_Graphs_and_their_Construction.pdf){:target="_blank"}: Proved the existence of expander graphs using randomized constructions and proved the unique neighbor expansion
-
- &nbsp;
 
 
 - Polygon Dynamics Under Reflection Operations, December 2022, P. Hoffman with O. Lores & C. Yung.
