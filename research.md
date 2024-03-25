@@ -24,8 +24,7 @@ order: 1
  &nbsp;
 
 <h3>Machine Learning</h3>
-- Random Matrix Initialization Methods in Machine Learning, May 2021, P. Hoffman,
-supervised by Professor Gil Strang. 
+- Random Matrix Initialization Methods in Machine Learning, May 2021
   - [[PDF]]({{site.baseurl}}/assets/Random_Matrix_Initialization_Methods.pdf){:target="_blank"}: Used randomized initialization methods to improve performance of 2-layer feed forward neural networks
 
  &nbsp;
