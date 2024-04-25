@@ -4,7 +4,7 @@ title: Industry Experience
 order: 4
 ---
 
-<h3>Citi Bank</h3>
+<h3>Citibank</h3>
 <h4>Trading intern, June 2022-August 2022, Boston, MA</h4>
 
 
