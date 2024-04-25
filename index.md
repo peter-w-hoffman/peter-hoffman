@@ -11,7 +11,7 @@ I am a final year undergraduate at MIT studying mathematics. I am interested in 
 
  &nbsp;
 
- Contact: hoffmanp (at) mit.edu
+ Contact: hoffmanp (at) mit (dot) edu
   
  [Accessibility](https://accessibility.mit.edu)
 
