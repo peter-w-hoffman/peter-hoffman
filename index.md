@@ -5,7 +5,10 @@ title: Home
 
 ![]({{site.baseurl}}/assets/PH-photo.jpeg){:width="150px"}
 
-I am a final year undergraduate at MIT studying mathematics. I am interested in decision-making problems involving optimization, discrete probability, and combinatorics. 
+
+I am a first-year PhD student at MIT, advised by Professor Pablo Parrilo and Professor Gabriele Farina. I am interested in the algorithmic and machine learning foundations to low-regret decision making under unknown information, often invoking tools from optimization, reinforcement learning, and probability. 
+
+I also completed my undergratuate at MIT in Mathematics, where I worked with Professor Pablo Parrilo on combinatorial optimization solutions to the Blotto Game.   
 
  &nbsp;
 
