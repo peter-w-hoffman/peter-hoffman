@@ -4,10 +4,6 @@ title: Industry Experience
 order: 4
 ---
 
-<h3>Citibank</h3>
-<h4>Trading intern, June 2022-August 2022, Boston, MA</h4>
-
-
 <h3>Point72 Asset Management</h3>
 <h4>Quantitative research intern, June 2021-August 2021, New York, NY</h4>
 
