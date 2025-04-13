@@ -9,9 +9,11 @@ I am a first-year PhD student at MIT advised by Professor Pablo Parrilo and Prof
 
 Previously, I completed an undergratuate in Mathematics also at MIT where I worked with Professor Pablo Parrilo on optimization solutions to the Blotto Game.   
 
- &nbsp;
+&nbsp;
 
- &nbsp;
+[[CV]]({{site.baseurl}}/assets/IP_approach_to_coloring_non_planar_graphs.pdf){:target="_blank"}:
+
+&nbsp;
 
  Contact: hoffmanp (at) mit (dot) edu
   
